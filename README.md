@@ -8,3 +8,4 @@ The Travel Advisor represents a cutting-edge Travel Companion Application that l
 
 
 ![Main Page](./public/MainPage.png)
+
